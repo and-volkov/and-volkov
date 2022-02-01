@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Andrey Volkov (@dreamwallz)
-- 🌱 I’m currently learning Python at Yandex Praktikum
+- 🌱 I’m currently learning 'Python backend development' at Yandex Praktikum
 
 <!---
 dreamwallz/dreamwallz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
