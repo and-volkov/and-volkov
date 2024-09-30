@@ -1,7 +1,7 @@
 # About Me:
 Hi, my name is Andrey and i am Backend Developer.
 
-* I’m currently working at Flying Academy as a Web projects developer<br>
+* I’m currently working at Vsporte as backend developer<br>
 * I’m looking to collaborate on open source python library projects<br>
 * I’m currently learning backend development<br>
 * Ask me about anything, and i will tell something
